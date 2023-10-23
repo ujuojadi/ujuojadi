@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
-I'm a graduate student at the University of Louisiana at Lafayette, pursuing a masters degree in informatics with a major concentration in Data Science and Analytics. My goal is to understand how Data Science can help improve human and computer interaction. I'm passionate about sharing knowledge, learning and documentation.
+I'm a graduate student at the University of Louisiana at Lafayette, pursuing a masters degree in informatics  with knowledge in HTML, Javascript, SQL/MYSQL/MONGODB, Nodejs, Python, C# -
 
 
-### Here's a quick summary about me:
+
+### Here's a quick summary about me:ujuojadi a major concentration in Data Science and Analytics. My goal is to understand how Data Science can help improve human and computer interaction. I'm passionate about sharing knowledge, learning and documentation.
 
 😊 Pronouns: She/Her
 
