@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a graduate student at the University of Louisiana at Lafayette, pursuing a masters degree in informatics  with knowledge in HTML, Javascript, Java, SQL/MYSQL/MONGODB, Nodejs, Python, C# for web applications, Numpy, Pandas, Sckit Learn Tableau and PowerBi for data wrangling,  analysis, visualization  and reporting. 
+I'm a graduate student at the University of Louisiana at Lafayette, pursuing a masters degree in informatics  with knowledge in HTML, Javascript, Java, SQL/MYSQL/MONGODB, Nodejs, Python, C#,  for web applications, Numpy, Pandas, Sckit Learn Tableau and PowerBi for data wrangling,  analysis, visualization  and reporting. 
 
 
 
