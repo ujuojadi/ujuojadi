@@ -5,7 +5,7 @@ I'm a graduate student at the University of Louisiana at Lafayette, pursuing a m
 
 
 
-### Here's a quick summary about me:ujuojadi a major concentration in Data Science and Analytics. My goal is to understand how Data Science can help improve human and computer interaction. I'm passionate about sharing knowledge, learning and documentation.
+### Here's a quick summary about me
 
 😊 Pronouns: She/Her
 
