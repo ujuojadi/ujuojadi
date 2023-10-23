@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a graduate student at the University of Louisiana at Lafayette, pursuing a masters degree in informatics  with knowledge in HTML, Javascript, SQL/MYSQL/MONGODB, Nodejs, Python, C# -
+I'm a graduate student at the University of Louisiana at Lafayette, pursuing a masters degree in informatics  with knowledge in HTML, Javascript, Java, SQL/MYSQL/MONGODB, Nodejs, Python, C# -
 
 
 
